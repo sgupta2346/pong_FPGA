@@ -20,17 +20,12 @@ Here’s a short demonstration of the Pong simulation:
 
 ![Pong Simulation](assets/pong_fpga.gif)
 
-For the full simulation video:
-
-[▶️ Watch full video](assets/output.mp4)
-
 ---
 
 ## 🖥️ Files
 - `pong.v` – Core game logic in Verilog.  
 - `testbench.v` – Simulation testbench with simple paddle AI.  
-- `viewer.py` – Python script to visualize simulation logs.  
-- `output.mp4` – Full simulation video.  
+- `viewer.py` – Python script to visualize simulation logs.   
 
 ---
 
