@@ -1,0 +1,5 @@
+*.exe
+*.out
+*.vcd
+*.log
+log.txt
